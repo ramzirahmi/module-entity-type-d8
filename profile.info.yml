@@ -1,0 +1,5 @@
+name: profile
+type: module
+description: " profile entity type module drupal 8"
+package: custom
+core: 8.x

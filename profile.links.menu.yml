@@ -1,0 +1,8 @@
+# Define the menu links for this module
+
+profile.collection:
+  title: 'Profile Entity'
+  route_name: entity.profile.collection
+  description: 'Create Entity Type'
+  weight: 10
+  parent: system.admin_structure
